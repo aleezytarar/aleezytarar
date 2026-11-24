@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**aleezytarar/aleezytarar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aleeza Tarrar 👋
 
-Here are some ideas to get you started:
+### 💻 Junior Front-End Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about web development and enjoy creating modern, responsive, and user-friendly websites.
+
+## 🛠️ Technical Skills
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- WordPress
+- Shopify
+- Basic SEO
+
+## 🚀 Featured Project
+
+### AI Career Assistant
+
+An interactive career guidance website that helps students explore career options, assess skills, and plan their learning journey.
+
+- [Live Website](https://aleezytarar.github.io/AI-Career-Assistant/)
+- [GitHub Repository](https://github.com/aleezytarar/AI-Career-Assistant)
+
+## 🌱 Currently Learning
+- React.js
+- Advanced JavaScript
+- Front-End Development
+
+## 📫 Contact
+- Email: aleezatarar892@gmail.com
+- GitHub: [@aleezytarar](https://github.com/aleezytarar)
+
+---
+⭐ Thanks for visiting my profile!
+
+
